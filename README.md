@@ -6,4 +6,4 @@ Project created from the object orientation course at udemy: https://www.udemy.c
 
 ## Comments:
 I love chess;
-The course is taught in portuguese, so i kept the native language in the code;
+The course is taught in portuguese, so I kept the native language in the code;
