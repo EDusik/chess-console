@@ -10,6 +10,6 @@ This project uses this technology:
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 </div>
 
-### :speaker: Comments:
-I love chess;
+## :speaker: Comments:
+I love chess :heart: <br />
 The course is taught in portuguese, so I kept the native language in the code;
