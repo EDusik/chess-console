@@ -12,4 +12,4 @@ This project uses this technology:
 
 ## :speaker: Comments:
 I love chess :heart: <br />
-The course is taught in portuguese, so I kept the native language in the code;
+The course is taught in portuguese, so I kept the native language in the code.
