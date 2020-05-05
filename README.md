@@ -11,5 +11,5 @@ This project uses this technology:
 </div>
 
 ## :speaker: Comments:
-I love chess :heart: <br />
+I :heart: chess <br />
 The course is taught in portuguese, so I kept the native language in the code.
